@@ -1,0 +1,3 @@
+rootProject.name = 'risingreaders_1120'
+
+include ':app'
